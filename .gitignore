@@ -1,0 +1,49 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.pdb
+*.idb
+
+# VS Code settings (if using VS Code)
+.vscode/
+
+# CMake build directory
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Code::Blocks workspace files
+*.cbp
+*.depend
+*.layout
+
+# CLion and JetBrains IDEs
+.idea/
+cmake-build-*/
+
+# Other system files
+*.DS_Store
+Thumbs.db
+
+# Temporary files (swap, logs)
+*~
+*.swp
+*.log
